@@ -61,7 +61,7 @@ This project consists of two React applications: **MD (Main Dashboard)** and **I
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:emp7eror/postmessage_poc.git
    cd postmessage_poc
    ```
 
