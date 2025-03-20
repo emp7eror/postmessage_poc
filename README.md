@@ -23,6 +23,7 @@ This project consists of two React applications: **MD (Main Dashboard)** and **I
   - Handles loading states and error messages.
 
 ## Logic Flow
+![Alt text](./images/img.png)
 
 ### Communication Flow
 
